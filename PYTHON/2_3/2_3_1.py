@@ -6,7 +6,7 @@ re_integer = -1234
 print(integer, "type: ", type(integer))
 print(re_integer, "type: ", type(re_integer), "\n")
 
-float = 3.1415926
+_float = 3.1415926
 print(float, "type: ",type(float), "\n")
 
 str_1 = 'I am a string'
